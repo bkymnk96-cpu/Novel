@@ -1,0 +1,1 @@
+{"expo":{"name":"ZEUS Translator","slug":"zeus-translator-native","version":"1.0.0","orientation":"portrait","userInterfaceStyle":"dark","assetBundlePatterns":["**/*"],"ios":{"supportsTablet":true},"android":{"adaptiveIcon":{"backgroundColor":"#050507"}},"web":{"bundler":"metro"}}}
